@@ -1,0 +1,84 @@
+search on google fonts 
+search playfair display
+search ubuntu
+Playfair Display
+
+/* font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif;
+ */
+
+
+
+/*
+
+////file fath is important
+
+download kore font use korar rules
+
+
+in css:
+@font-face {
+    font-family:OpenSans-Regular ;
+    src: url(../fonts/opensans/OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family:OpenSans-Bold ;
+    src: url(../fonts/opensans/OpenSans-Bold.ttf);
+}
+
+
+h1{
+    font-family: OpenSans-Regular;
+    font-size: 50px;
+    font-weight: 400;
+}
+
+h2{
+    font-family: OpenSans-Bold;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+
+
+*/
+
+
+
+
+
+
+
+psd information
+
+//
+
+image crop korte hole image select korte hobe then alt and right button eksathe click korte hobe 
+tarpor image e click kore trim kore ok dite hobe 
+then ctrl,alt,shift,s click korle new page open hobe 
+
+tarpor pic ta jpeg te default vhabe thakbe ,setaike png 24 korte hobe 
+then original e default vhabe thakbe ,setaje optimized e click korte hobe
+
+
+
+//
+
+
+
+1.15 min after video watch
+
+//40min 17 sec
+
+// https://www.youtube.com/watch?v=cE2un5pNYZs    16.13 
+
+https://drive.google.com/drive/folders/1GhbZCeIW6UYIVWs7qdi3gYvSLD3p7LHT?fbclid=IwAR0UaVvOZI0fF00dvr-58Wgpn2ZSzBga3QlPw5n-LZg5wCAb4tShb99mD9c
+
+
+//position absolute and position relative rules:
+
+parent position always be relative .... and child position always be absolute
+
+
+
